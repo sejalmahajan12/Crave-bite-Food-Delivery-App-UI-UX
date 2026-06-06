@@ -41,7 +41,8 @@ Browse Food → Select Items → Add to Cart → Apply Offers → Place Order �
 
 These screens show the Welcome Screens and homepage of our app.
 <img width="442" height="620" alt="image" src="https://github.com/user-attachments/assets/8daf758b-3897-459d-a2ad-021a850e4699" />
-This scetion shows offers, cart , checkout, payment options available and also it shows order tracking option for users. 
+
+This section shows offers, cart , checkout, payment options available and also it shows order tracking option for users. 
 <img width="621" height="352" alt="image" src="https://github.com/user-attachments/assets/bf72f8b5-2f28-4f8f-9c64-5bc3e0079227" />
 <img width="618" height="346" alt="image" src="https://github.com/user-attachments/assets/7afb26da-3004-471a-ab9b-7112de04a170" />
 
