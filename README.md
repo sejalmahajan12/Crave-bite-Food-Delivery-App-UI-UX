@@ -90,6 +90,6 @@ Basic user testing confirmed that users were able to navigate easily, complete t
 * Aarya Matekar - B25IT1030
 * Kristi Mendhe - B25IT1031
 * Himanshi Rokade - B25IT1043
-
+   
 ## Conclusion
 Crave Bite successfully applies UI/UX principles to create a simple, user-friendly food delivery app. With a clean design and smooth navigation, it enables easy browsing, ordering, and tracking. The project highlights the importance of usability, consistency, and user-centered design in mobile applications.
