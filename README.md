@@ -1,4 +1,4 @@
-# Crave Bite – Food Delivery App UI/UX
+# Crave Bite – Food 
 
 <p align="center">
   <b>Modern Food Delivery Mobile App Design</b><br>
